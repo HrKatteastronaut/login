@@ -10,8 +10,8 @@
 <body>
     <nav>
         <ul>
-            <li><a href="index.html">Forside</a></li>
-            <li><a href="Lommeregner.html">Lommeregner</a></li>
+            <li><a href="index.php">Forside</a></li>
+            <li><a href="Lommeregner.php">Lommeregner</a></li>
         </ul>
     </nav>
     <form>
