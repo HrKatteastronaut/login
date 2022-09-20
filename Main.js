@@ -16,3 +16,4 @@ if(op == "add") {
 
  document.querySelector("#result").innerHTML=calculate;
 }
+

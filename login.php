@@ -1,11 +1,16 @@
 <?php
 include_once 'header.php'; 
 ?>
-
-    <form>
-    Brugernavn: <inout type="text" id="value3">
-    Adgangskode: <inout type="text" id="value4">  
-    <button type="button" onclick=""></button>
+<section class="signup-form">
+    <h2>Login</h2>
+    <form action="login.inc.php" method="post">
+        <input type="text" name="uid" placeholder="Username">
+        <input type="password" name="pwd" placeholder="Password">
+        <button type="submit" name="submit">Login</button>
     </form>
+</section>
+
+
 </body>
+<script src="main.js"></script>
 </html>

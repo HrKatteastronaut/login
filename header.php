@@ -13,5 +13,6 @@
             <li><a href="index.php">Forside</a></li>
             <li><a href="Lommeregner.php">Lommeregner</a></li>
             <li><a href="login.php">Login</a></li>
+            <li><a href="signup.php">Sign Up</a></li>
         </ul>
     </nav>
